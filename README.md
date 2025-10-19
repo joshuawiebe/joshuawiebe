@@ -4,7 +4,7 @@
 - 📫 How to reach me **joshua.wiebe2010@gmail.com**  
 - 👀 I’m interested in everything with **computers**  
 - 🌱 I’m currently learning **Full-Stack Development**, how **Linux** works and how I can **configure it**  
-- ⚡ Fun fact **I am 14 years old**
+- ⚡ Fun fact **I am 15 years old**
 
 ---
 
